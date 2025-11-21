@@ -1,3 +1,7 @@
+PROJECT STRUCTURE
+
+```
+
 Sign-Language-Detection/
 │
 ├── venv/                # virtual environment 
@@ -15,3 +19,5 @@ Sign-Language-Detection/
 │
 ├── README.md
 └── .gitignore
+
+``` 
