@@ -1,5 +1,4 @@
 # Core libraries
-Python==3.11.9
 numpy>=1.26,<1.27
 scipy==1.15.3
 scikit-learn==1.7.2
